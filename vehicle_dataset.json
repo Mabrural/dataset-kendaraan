@@ -1,0 +1,131 @@
+{
+  "mobil": {
+    "Toyota": [
+      "Agya", "Avanza", "Veloz", "Calya", "Raize", "Rush", "Yaris",
+      "Fortuner", "Innova Reborn", "Innova Zenix", "Camry", "Corolla Altis",
+      "Hilux", "Hiace", "Land Cruiser", "Vios", "Sienta", "Alphard",
+      "Vellfire", "Prado", "C-HR", "Supra", "Corolla Cross", "Urban Cruiser",
+      "Tundra", "Sequoia", "Mirai"
+    ],
+    "Honda": [
+      "Brio", "Jazz", "Mobilio", "BR-V", "CR-V", "HR-V", "City", "Civic",
+      "Accord", "Odyssey", "Freed", "CR-Z", "WR-V", "Pilot", "Ridgeline",
+      "E:HEV", "Legend"
+    ],
+    "Mitsubishi": [
+      "Xpander", "Xpander Cross", "Pajero Sport", "Outlander", "Eclipse Cross",
+      "L300", "Triton", "Mirage", "ASX", "Delica"
+    ],
+    "Suzuki": [
+      "Ertiga", "XL7", "Baleno", "Ignis", "Karimun Wagon", "APV", "S-Cross",
+      "Jimny", "Swift", "Vitara Brezza"
+    ],
+    "Daihatsu": [
+      "Ayla", "Sigra", "Xenia", "Terios", "Rocky", "Luxio", "Gran Max",
+      "Copen"
+    ],
+    "Hyundai": [
+      "Creta", "Stargazer", "Ioniq 5", "Santa Fe", "Palisade", "Kona",
+      "Tucson", "Ioniq 6", "Venue", "Elantra"
+    ],
+    "Wuling": [
+      "Confero", "Cortez", "Almaz", "Air EV", "Formo", "Victory", "Hongguang Mini EV"
+    ],
+    "Mazda": [
+      "Mazda 2", "Mazda 3", "Mazda 6", "CX-3", "CX-5", "CX-30", "CX-9",
+      "MX-5", "BT-50"
+    ],
+    "Nissan": [
+      "Livina", "Serena", "X-Trail", "Magnite", "Terra", "Kicks",
+      "Leaf", "Navara", "GT-R", "Patrol"
+    ],
+    "Kia": [
+      "Seltos", "Sonet", "Carnival", "Sportage", "Rio", "Picanto",
+      "Stinger", "EV6", "Sorento"
+    ],
+    "BMW": [
+      "Series 3", "Series 5", "Series 7", "X1", "X3", "X5", "i3", "i8",
+      "X7", "M2", "M3", "M4", "M5"
+    ],
+    "Mercedes-Benz": [
+      "A-Class", "C-Class", "E-Class", "S-Class", "GLA", "GLC", "GLE",
+      "GLS", "AMG GT", "CLA", "EQC", "EQS"
+    ],
+    "Audi": [
+      "A3", "A4", "A6", "A8", "Q3", "Q5", "Q7", "Q8", "TT", "e-Tron"
+    ],
+    "Volkswagen": [
+      "Polo", "Golf", "Jetta", "Passat", "Tiguan", "Touareg", "Beetle",
+      "ID.4", "Arteon"
+    ],
+    "Chevrolet": [
+      "Spin", "Trailblazer", "Captiva", "Colorado", "Camaro", "Silverado"
+    ],
+    "Ford": [
+      "Ranger", "Everest", "Explorer", "Fiesta", "Focus", "Mustang",
+      "Bronco"
+    ],
+    "Tesla": [
+      "Model S", "Model 3", "Model X", "Model Y", "Cybertruck"
+    ],
+    "Lexus": [
+      "RX", "NX", "UX", "GX", "LX", "ES", "LS", "LC500"
+    ]
+  },
+
+  "motor": {
+    "Honda": [
+      "Beat", "Vario 125", "Vario 160", "Scoopy", "Genio", "PCX 160",
+      "ADV 150", "ADV 160", "CB150R", "CB150X", "CBR150R", "CBR250RR",
+      "CRF150L", "Supra X 125", "Revo", "Forza 250", "Monkey", "Super Cub"
+    ],
+    "Yamaha": [
+      "Mio", "Mio M3", "Mio Z", "Aerox 155", "NMax", "Lexi", "Fazzio",
+      "Gear 125", "R15", "R25", "Vixion", "X-Ride", "MT-15", "MT-25",
+      "WR155", "TMax", "XMax 250"
+    ],
+    "Suzuki": [
+      "Nex II", "Address", "Satria FU", "GSX R150", "GSX S150", "Smash",
+      "Burgman", "GSX250R"
+    ],
+    "Kawasaki": [
+      "Ninja 250", "Ninja ZX-25R", "Ninja 650", "KLX 150", "KLX 250",
+      "W175", "Z250", "Z900", "Versys 650", "H2R"
+    ],
+    "Vespa": [
+      "Primavera", "Sprint", "LX 125", "GTS 150", "GTS 300",
+      "946", "Sei Giorni"
+    ],
+    "Benelli": [
+      "TNT 135", "Patagonian Eagle", "Leoncino 250", "Leoncino 500",
+      "TRK 251", "TRK 502"
+    ],
+    "Aprilia": [
+      "SR GT", "RS 660", "Tuono 660", "RSV4", "SX 125"
+    ],
+    "KTM": [
+      "Duke 200", "Duke 250", "Duke 390", "RC 200", "RC 250", "RC 390",
+      "Adventure 250", "Adventure 390"
+    ],
+    "Ducati": [
+      "Scrambler", "Monster 821", "Panigale V2", "Panigale V4",
+      "Multistrada", "Diavel"
+    ],
+    "Harley-Davidson": [
+      "Street 500", "Iron 883", "Forty-Eight", "Fat Bob", "Sportster S",
+      "Road King", "Street Glide"
+    ],
+    "Royal Enfield": [
+      "Classic 350", "Meteor 350", "Himalayan", "Bullet 500",
+      "Interceptor 650", "Continental GT 650"
+    ],
+    "BMW Motorrad": [
+      "G310R", "G310GS", "F750GS", "F850GS",
+      "S1000RR", "R1250GS", "R Nine T"
+    ],
+    "Triumph": [
+      "Bonneville", "Street Twin", "Scrambler 1200",
+      "Tiger 800", "Tiger 1200"
+    ]
+  }
+}
